@@ -358,10 +358,8 @@ body {
 }
 
 .svg-icon {
-  fill: white;
-  width: 16px;
-height: 16px;
-
+  fill:#f4f4fd;
+ 
 }
 
 .our-team-social-link:hover,
@@ -587,6 +585,5 @@ height: 16px;
 
 .svg-atribution {
   fill:  #f4f4fd;
-  width: 24px;
-  height: 24px;
+ 
 }
