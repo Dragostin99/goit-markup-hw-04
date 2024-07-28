@@ -359,8 +359,10 @@ body {
 
 
 
-.our-team-social-link:hover {
-  background-color: #404BBF;
+.our-team-social-link:hover,
+.our-team-social-link:focus
+ {
+  background-color: #404bbf; ;
   
 }
 
